@@ -11,7 +11,7 @@ I have total 3.5 years of experience, where i worked as Network Administrator fo
 In the coming years,  i want to see myself as a UI Architect 
 
 ## Links
-Bitbucket: [https://bitbucket.org/yugandharmamidi/](https://bitbucket.org/yugandharmamidi/)
-Shell-data-processing Project: [https://github.com/yugandharmamidi/shell-data-processing](https://github.com/yugandharmamidi/shell-data-processing)
+* Bitbucket: [https://bitbucket.org/yugandharmamidi/](https://bitbucket.org/yugandharmamidi/)
+* Shell-data-processing Project: [https://github.com/yugandharmamidi/shell-data-processing](https://github.com/yugandharmamidi/shell-data-processing)
 
 ![mypic](mypic.jpg)
